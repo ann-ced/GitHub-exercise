@@ -1,1 +1,4 @@
-print("Hello")
+print("Hello :-)")
+
+x <- 1 + 1
+
