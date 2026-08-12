@@ -2,3 +2,5 @@ This is something random
 
 I also tried to add text to the same row in the same file back in my main but not in the branch
 I wanted t try to add random text to my random file, not sure if I want to keep it
+
+My girl. Jag är på GitHub just nu och gör en ändring!
